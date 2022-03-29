@@ -6,10 +6,10 @@
   :hammer_and_pick: :pencil2: :seedling: :man: :hammer_and_pick: :pencil2: :seedling: :man: :hammer_and_pick: :pencil2: :seedling: :man: :hammer_and_pick: :pencil2: :seedling: :man: </br>
    :thought_balloon: ㅤㅤㅤㅤㅤI'm just a boy looking for happinessㅤㅤㅤㅤ :thought_balloon: </br>
    :hammer_and_pick: ㅤㅤㅤㅤㅤC / C++ / GitHub Actions / Pythonㅤㅤㅤㅤㅤ:hammer_and_pick: </br>
-   :pencil2:         ㅤㅤㅤㅤㅤㅤㅤㅤㅤ[Studies/Estudos]ㅤㅤㅤㅤㅤㅤㅤㅤ:pencil2: </br>
-   :seedling:        ㅤㅤㅤTaking courses & doing assignments at THUㅤㅤㅤ :seedling:</br>
+   :pencil2:         ㅤㅤㅤㅤㅤㅤㅤㅤ|[Studies | Estudos]ㅤㅤㅤㅤㅤㅤㅤㅤ:pencil2: </br>
+   :seedling:        ㅤㅤㅤTaking courses & doing assignments at collegeㅤㅤㅤ :seedling:</br>
    :man:             ㅤㅤㅤㅤPronouns | Pronomes: he/him | ele/delesㅤㅤㅤㅤ :man:</br>
-   :thought_balloon: ㅤㅤㅤㅤㅤAsk me anything at [Discussions]ㅤㅤㅤ!ㅤ :thought_balloon: </br>
+   :thought_balloon: ㅤㅤㅤㅤㅤㅤAsk me anything at instagramㅤㅤㅤㅤ :thought_balloon: </br>
    :hammer_and_pick: :pencil2: :seedling: :man: :hammer_and_pick: :pencil2: :seedling: :man: :hammer_and_pick: :pencil2: :seedling: :man: :hammer_and_pick: :pencil2: :seedling: :man:
 </div>
 <h3 align="center">Contato em:</h3>
