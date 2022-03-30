@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Guilherme-A-Silva/Guilherme/main/imagens/HelloTOP.png" width="600px">
+<img src="https://raw.githubusercontent.com/Guilherme-A-Silva/Guilherme/main/imagens/TOP.gif" width="1200px">
 <h1 align="center">Somethings about me </h1>
 <h3 align="center">👨‍💻 Desenvolvedor/Developer Back-end Jr 👨‍💻 </h3>
 <div p align="center">
