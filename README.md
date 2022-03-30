@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Guilherme-A-Silva/Guilherme/main/imagens/HelloTOP.png" width="600px">
 <h1 align="center">Somethings about me </h1>
+<h3 align="center">👨‍💻 Desenvolvedor Back-end Jr </h3>
 <div p align="center">
   :hammer_and_pick: :pencil2: :seedling: :man: :hammer_and_pick: :pencil2: :seedling: :man: :hammer_and_pick: :pencil2: :seedling: :man: :hammer_and_pick: :pencil2: :seedling: :man: </br>
    :thought_balloon: ㅤㅤㅤㅤㅤI'm just a boy looking for happinessㅤㅤㅤㅤ :thought_balloon: </br>
@@ -25,3 +26,4 @@
 </div>  
 <p align="center">
 <img src="https://github.com/Guilherme-A-Silva/Guilherme/blob/main/imagens/Walking.gif" width="110px">
+  <h3 align="center"> Sometimes i'm look at sky and think with myself "What is my next step" </h3>
