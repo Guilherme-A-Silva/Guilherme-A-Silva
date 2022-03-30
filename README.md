@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Guilherme-A-Silva/Guilherme/main/imagens/HelloTOP.png" width="700px">
+<img src="https://raw.githubusercontent.com/Guilherme-A-Silva/Guilherme/main/imagens/HelloTOP.png" width="600px">
 <h1 align="center">Somethings about me </h1>
 <div p align="center">
   :hammer_and_pick: :pencil2: :seedling: :man: :hammer_and_pick: :pencil2: :seedling: :man: :hammer_and_pick: :pencil2: :seedling: :man: :hammer_and_pick: :pencil2: :seedling: :man: </br>
