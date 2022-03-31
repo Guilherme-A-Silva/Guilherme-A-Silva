@@ -1,23 +1,14 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Guilherme-A-Silva/Guilherme/main/imagens/Update.gif" width="1200px">
 <img src="https://raw.githubusercontent.com/Guilherme-A-Silva/Guilherme/main/imagens/UpgradeSUB.gif" width="1000px">
-<h3 align="center">👨‍💻 Desenvolvedor/Developer Back-end Jr 👨‍💻 </h3>
-<div p align="center">
-  :hammer_and_pick: :pencil2: :seedling: :man: :hammer_and_pick: :pencil2: :seedling: :man: :hammer_and_pick: :pencil2: :seedling: :man: :hammer_and_pick: :pencil2: :seedling: :man: </br>
-   :thought_balloon: ㅤㅤㅤㅤㅤI'm just a boy looking for happinessㅤㅤㅤㅤ :thought_balloon: </br>
-   :hammer_and_pick: ㅤㅤㅤㅤㅤC / C++ / GitHub Actions / Pythonㅤㅤㅤㅤㅤ:hammer_and_pick: </br>
-   :pencil2:         ㅤㅤㅤㅤㅤㅤㅤㅤ|[Studies | Estudos]ㅤㅤㅤㅤㅤㅤㅤㅤ:pencil2: </br>
-   :seedling:        ㅤㅤㅤTaking courses & doing assignments at collegeㅤㅤㅤ :seedling:</br>
-   :man:             ㅤㅤㅤㅤPronouns | Pronomes: he/him | ele/delesㅤㅤㅤㅤ :man:</br>
-   :thought_balloon: ㅤㅤㅤㅤㅤㅤAsk me anything at instagramㅤㅤㅤㅤ :thought_balloon: </br>
-   :hammer_and_pick: :pencil2: :seedling: :man: :hammer_and_pick: :pencil2: :seedling: :man: :hammer_and_pick: :pencil2: :seedling: :man: :hammer_and_pick: :pencil2: :seedling: :man:
-</div>
 <h2 align="center">Contato em:</h3> 
 <p align="center">
 <a href="https://twitter.com/Guilherme_AS0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
 <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/guilherme_a.s16/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<h2> </h3> 
+<img src="https://raw.githubusercontent.com/Guilherme-A-Silva/Guilherme/main/imagens/Status.gif" width="1000px">
 <h2 align="center"> Status </h2>
 <div align="center">
   <a href="https://github.com/Guilherme-A-Silva">
