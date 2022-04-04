@@ -1,7 +1,7 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Guilherme-A-Silva/Some-Stuffs/main/imagens/Update.gif" width="1200px">
-<img src="https://raw.githubusercontent.com/Guilherme-A-Silva/Some-Stuffs/main/imagens/UpgradeSUB.gif" width="1000px">
-<img src="https://raw.githubusercontent.com/Guilherme-A-Silva/Some-Stuffs/main/imagens/Status.gif" width="1000px">
+<a href="//github.com/Guilherme-A-Silva"><img src="https://raw.githubusercontent.com/Guilherme-A-Silva/Some-Stuffs/main/imagens/Update.gif" width="1200px">
+<a href="//github.com/Guilherme-A-Silva"><img src="https://raw.githubusercontent.com/Guilherme-A-Silva/Some-Stuffs/main/imagens/UpgradeSUB.gif" width="1000px">
+<a href="//github.com/Guilherme-A-Silva"><img src="https://raw.githubusercontent.com/Guilherme-A-Silva/Some-Stuffs/main/imagens/Status.gif" width="1000px">
 <h2 align="center">Contato em:</h3> 
 <p align="center">
 <a href="https://twitter.com/Guilherme_AS0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
