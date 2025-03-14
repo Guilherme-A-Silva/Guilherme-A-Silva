@@ -1,31 +1,15 @@
-<p align="center">
-<a href="//github.com/Guilherme-A-Silva"><img src="https://raw.githubusercontent.com/Guilherme-A-Silva/Some-Stuffs/main/imagens/Update.gif" width="1200px">
-<a href="//github.com/Guilherme-A-Silva"><img src="https://raw.githubusercontent.com/Guilherme-A-Silva/Some-Stuffs/main/imagens/UpgradeSUB.gif" width="1000px">
-<a href="//github.com/Guilherme-A-Silva"><img src="https://raw.githubusercontent.com/Guilherme-A-Silva/Some-Stuffs/main/imagens/Status.gif" width="1000px">
-<h2 align="center">Contato em:</h3> 
-<p align="center">
-<a href="https://twitter.com/Guilherme_AS0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/guilherme_as16/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-<h2> </h3> 
-<h2 align="center"> Status </h2>
-<div align="center">
-  <a href="https://github.com/Guilherme-A-Silva">
-  <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-A-Silva&show_icons=true&theme=transparent)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-A-Silva&layout=compact&langs_count=7&theme=dark"/>
-</div> 
-<h3 align="center"> Curiosidades: </h3>
-  
-```javascript
-const Guilherme = {
-  Hobbies: "PlAy SoMe GaMeS" | "ReAd SoMe BoOkS";
-  Wish: "To Have the source code of life";
-  Dream: "To Live in the most beautiful way possible"; 
-  
-  Challenge: "Be the best version of myself everyday."
-}
-```
-<p align="center">
-<img src="https://github.com/Guilherme-A-Silva/Some-Stuffs/blob/main/imagens/Walking.gif" width="110px">
-  <h3 align="center"> Sometimes i'm look at sky and think with myself "What is my next step" </h3>
+<img width = 100% src="https://capsule-render.vercel.app/api?type=Waving&color=8143c1&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=88f358&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Augusto;I'm+22+years+old;I+am+from+Brasil,+RN;I+study+Computer+Science+at+UERN;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  <br></br>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guilherme-A-Silva&show_icons=true&count_private=true&hide_border=true&title_color=88f358&icon_color=88f358&text_color=c9d1d9&bg_color=8143c1" alt="Matheus Assunção github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-A-Silva&layout=compact&hide_border=true&title_color=88f358&text_color=88f358&bg_color=8143c1" />
+</div>
+  <br></br>
+<div align="center"> 
+<a href = "mailto:guilhermekelder@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/guilherme-augusto-silva-566916227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8143c1&height=120&section=footer"/>
